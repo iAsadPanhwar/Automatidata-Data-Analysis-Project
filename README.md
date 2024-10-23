@@ -47,7 +47,7 @@ This Tableau dashboard provides a scatter plot visualization of the relationship
 
 #### 2. Dashboard:
 
-![Description of I image]()
+![Description of I image](./Viz/Dashboard.png)
 
 ## Prerequisites
 
