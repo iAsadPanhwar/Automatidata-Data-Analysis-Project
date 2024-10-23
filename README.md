@@ -8,14 +8,12 @@ This repository contains a step-by-step analysis of the **New York City Yellow T
 
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
-3. [Prerequisites](#prerequisites)
-4. [Installation](#installation)
-5. [Step-by-Step Analysis](#step-by-step-analysis)
-6. [Visualizations](#visualizations)
-7. [Project Structure](#project-structure)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgements](#acknowledgements)
+3. [Visualizations](#visualizations)
+4. [Prerequisites](#prerequisites)
+5. [Installation](#installation)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Acknowledgements](#acknowledgements)
 
 ## Dataset
 
